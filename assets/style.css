@@ -1,32 +1,14 @@
-* {
-    box-sizing: border-radius;
-  }
-  
-  body {
-    font-family: Arial;
-    font-size: 18px;
-    line-height: 25px;
-    color: #777;
-    background-color:rgb(94, 89, 89);
-  }
-  h1{line: height 25px;
-font-weight: 900;}
-h2{line: height 15px;
-    font-family: monospace;}
-    h3{line: height 30px;
-        font-stretch: semi-expanded ;}
- 
-   header {
-      border: groove 20px rgb(150, 150, 150);
-    padding: 40px;
-    text-align: center;
-    background: #2113e6;
-    color: #fff;
-  }
-  
-  nav {
-    display: flex;
-    background-color: #ffffff;
-  };
- 
-   
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  color: #222;
+  font-family: "poppins", 'Times New Roman', Times, 
+}
+
+body{ padding-top: 20px;}
+
+
+
